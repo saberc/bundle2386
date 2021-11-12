@@ -1,5 +1,5 @@
 code: bundle2386-bundle
-description: This is the bundle2386 bundle
+description: This is the bundle2386 bundle. This is my updated description.
 
 components:
   plugins:
@@ -10,4 +10,3 @@ components:
     - ui/widgets/house/detailsWidget/house-details-widget-descriptor.yaml
     - ui/widgets/house/formWidget/house-form-widget-descriptor.yaml
 # entando-needle-descriptor-add-widgets - Entando blueprint will add widget bundle files here
-
